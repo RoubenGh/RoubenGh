@@ -1,51 +1,112 @@
-### Hi there, my name is Rouben Ghambaryan!
+<div align="center">
 
-I am once a student of Psychology turned Software Engineer. As a student of App Academy, a 6-month full stack development bootcamp, I put in hard work and dedication to learn and craft tools such as, React | Redux | Python | Node.js | Express | Sequelize | PostgreSQL | SQLAlchemy | Git | Javascript | HTML | CSS. Along my journey at App Academy I got a chance to pair-program nearly everyday. Ultimately this experienced allowed me to become a good coder, and an even better team player! Apart from being a Software Engineer, my passions include playing video games, reading books, and watching shows!
+# Rouben Ghambaryan
 
-<!--
-**RoubenGh/RoubenGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Software+Engineer;Cloud+%26+DevOps+Engineer;Production+Infrastructure+%26+Systems;Founder+of+RLA+Studios" />
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/rouben-ghambaryan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rouben.ghambaryan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://rlastudios.com">
+    <img src="https://img.shields.io/badge/RLA%20Studios-Visit%20Site-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoubenGh&theme=radical)
+</div>
 
-## Tools I've Acquired!
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Font awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
+## About Me
 
-## My Projects!
-* 🎵[SoundShroud](https://sound-shroud.herokuapp.com/)🎵
-* 📸[Instaflick](https://instaflick-app.herokuapp.com/login)📸
-* 🖼️[Liqr](https://liq-r.herokuapp.com/)🖼️
+I am a Software Engineer focused on infrastructure, systems, and real-world production environments.
 
-## Contact Me
-Email: rouben.ghambaryan@gmail.com | [LinkedIn](https://www.linkedin.com/in/rouben-ghambaryan/)
+I transitioned into engineering from a background in Psychology and now operate across cloud infrastructure, backend systems, and live production environments where uptime and reliability matter.
+
+I specialize in understanding how systems actually behave in production, how they scale, where they break, and how to fix them quickly.
+
+---
+
+## Experience & Responsibilities
+
+- Own and maintain production infrastructure across multiple environments
+- Manage AWS systems including EC2 instances, networking, and deployments
+- Debug complex issues across containers, web servers, applications, and networks
+- Handle DNS, SSL, email systems, and deliverability (SPF, DKIM, DMARC)
+- Investigate incidents using logs, traces, and system-level analysis
+- Support both legacy and modern application stacks in production
+- Build automation and internal systems to improve operational efficiency
+- Operate as a sole engineer responsible for multiple production systems
+
+---
+
+## Tech Stack & Systems Knowledge
+
+### Languages & Application Layer
+- JavaScript (Node.js, React)
+- Python
+- SQL
+
+### Infrastructure & Cloud
+- AWS (EC2, networking, deployments, AMIs, Elastic IPs)
+- Docker (containerization, debugging, runtime issues)
+- Kubernetes (namespaces, deployments, services)
+- Linux systems (Debian, Ubuntu)
+
+### Web & Application Servers
+- Nginx
+- Apache
+- Virtualmin environments
+
+### Networking & Systems
+- DNS (records, propagation, troubleshooting)
+- SSL certificates (issuance, renewal, debugging)
+- SMTP / email systems
+- Email deliverability (SPF, DKIM, DMARC)
+- Firewalls and routing (NAT, VPN access patterns)
+
+### Databases & Storage
+- PostgreSQL
+- MySQL
+- Redis
+
+### Tooling & Workflow
+- Git / GitHub
+- SSH / remote access
+- Postman
+- Log analysis & debugging workflows
+
+---
+
+## Projects
+
+### RLA Studios
+https://rlastudios.com
+
+A real estate media company focused on high-end listing videos, AI-generated content, and scalable creative workflows.
+
+---
+
+### Server Scraper Auditor
+- Standalone application (currently local)
+- Scrapes and audits listing/data inputs
+- Focused on validation, consistency, and workflow accuracy
+- Designed as a scalable system, not a one-off script
+
+---
+
+### Ticket / Workflow System
+- Standalone application (currently local, moving to web app)
+- Designed for lead tracking, task management, and operational workflows
+- Will evolve into a full web-based system
+
+---
+
+## Contact
+
+- Email: rouben.ghambaryan@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rouben-ghambaryan/  
+- Website: https://rlastudios.com
